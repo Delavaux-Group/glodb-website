@@ -1,6 +1,6 @@
 # GloDB Website
 
-GloDB is a curated reference database and associated bioinformatic pipeline for the environmental identification of arbuscular mycorrhizal fungi (AMF) using the large subunit (LSU) and long-read PacBio (SSU-ITS-LSU) regions.
+GloDB is a curated reference database and associated bioinformatic pipeline for the environmental identification of arbuscular mycorrhizal fungi (AMF) using the large subunit (LSU).
 
 [![Website](https://img.shields.io/badge/Website-glodb.org-blue)](https://www.glodb.org)
 [![DOI](https://img.shields.io/badge/DOI-10.1111/nph.17080-blue)](https://doi.org/10.1111/nph.17080)
@@ -12,7 +12,6 @@ Arbuscular mycorrhizal fungi associate with ~80% of land plants worldwide, playi
 The project includes:
 
 - **GloDB** — LSU reference database with multiple curated versions (v10–v18)
-- **LongGloDB** — Curated long-read PacBio database (SSU, ITS, LSU, and combined regions)
 - **Pipelines** — Tools for placing study sequences into the GloDB backbone tree for operational taxonomic unit (OTU) or amplicon sequence variant (ASV) identification
 
 ## Site Navigation
@@ -20,7 +19,7 @@ The project includes:
 | Page | Description |
 |------|-------------|
 | [Home](https://www.glodb.org) | Overview, database visualizations, and references |
-| [Databases](https://www.glodb.org/databases.html) | Download GloDB and LongGloDB data files |
+| [Databases](https://www.glodb.org/databases.html) | Download GloDB data files |
 | [Pipelines](https://www.glodb.org/pipelines.html) | Pipeline tools for AMF identification |
 | [About](https://www.glodb.org/about.html) | Project background and contact information |
 
